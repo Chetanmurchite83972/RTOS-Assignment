@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GPIO1/TrirdParty&apos; to &apos;ThirdParty&apos;" description="Rename resource &apos;TrirdParty&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="TrirdParty" name="ThirdParty" stamp="1717237405318" updateReferences="true"/>
+</session>

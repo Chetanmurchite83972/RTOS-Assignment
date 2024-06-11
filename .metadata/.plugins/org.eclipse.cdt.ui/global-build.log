@@ -1,0 +1,14 @@
+18:24:44 **** Incremental Build of configuration Debug for project day4_2 ****
+make -j12 all 
+arm-none-eabi-size  day4_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13784	     96	  18344	  32224	   7de0	day4_2.elf
+Finished building: default.size.stdout
+ 
+18:24:56 **** Incremental Build of configuration Debug for project day4_2 ****
+make -j12 all 
+arm-none-eabi-size  day4_2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13784	     96	  18344	  32224	   7de0	day4_2.elf
+Finished building: default.size.stdout
+ 
